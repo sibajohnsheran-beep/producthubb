@@ -1,0 +1,6 @@
+{
+  "name": "ProductHub",
+  "description": "A complete, modern Product Management Application for managing products, categories, pricing, and status.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
