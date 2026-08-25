@@ -7,8 +7,8 @@ const products = [
   {
     id: 1,
     name: "ThinkPad X1 Carbon",
-    price: 30000,
-    category: "Hardware",
+    price: 80000,
+    category: "Hayeve",
     sku: "LNV-1092",
     status: "Active",
     createdAt: "2026-10-24",
