@@ -7,7 +7,7 @@ const products = [
   {
     id: 1,
     name: "ThinkPad X1 Carbon",
-    price: 12000,
+    price: 30000,
     category: "Hardware",
     sku: "LNV-1092",
     status: "Active",
