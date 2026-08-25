@@ -1,10 +1,10 @@
 {
   "version": 2,
   "buildCommand": "npm run build",
-  "routes": [
+  "rewrites": [
     {
-      "src": "/api/(.*)",
-      "dest": "/api/index.cjs"
+      "source": "/api/:path*",
+      "destination": "/api/index.cjs"
     }
   ]
 }
